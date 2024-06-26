@@ -4,9 +4,13 @@ This project is a comprehensive analysis comparing the cricket statistics of two
 # Project Overview
 The notebook leverages historical data to perform a detailed comparison of Sachin Tendulkar and Virat Kohli’s careers by comparing their performance metrics against other players from their respective eras. The following parameters are analyzed:
 Runs per Innings: Average runs scored per innings by each player compared to their peers.
+
 Strike Rate: Measure of how quickly the player scores runs compared to others in their era.
+
 Centuries (100s): Number of times the player scored 100 runs or more in an innings compared to others in their era.
+
 Half-Centuries (50s): Number of times the player scored 50 runs or more in an innings compared to others in their era.
+
 Team Contribution: Contribution of the player's runs to the team's total score compared to their peers.
 
 # Methodology
