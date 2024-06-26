@@ -1,4 +1,4 @@
-# SACHIN-VS-VIRAT-Cricket Stats Comparison
+# SACHIN-VS-VIRAT - Cricket Stats Comparison
 This project is a comprehensive analysis comparing the cricket statistics of two legendary cricketers: Sachin Tendulkar and Virat Kohli, along with their contemporaries. By examining key performance parameters such as runs per innings, strike rate, centuries (100s), half-centuries (50s), and team contribution, this notebook aims to provide a data-driven perspective on who stands out as the better player relative to their peers.
 
 # Project Overview
