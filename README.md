@@ -14,7 +14,7 @@ Half-Centuries (50s): Number of times the player scored 50 runs or more in an in
 Team Contribution: Contribution of the player's runs to the team's total score compared to their peers.
 
 # Methodology
-Data Collection: We gathered historical cricket data for Sachin Tendulkar, Virat Kohli, and other top players from their time periods.
+Data Collection: We gathered historical cricket data for Sachin Tendulkar (1994 to 2004), Virat Kohli (2009 to 2019), and other top players from these time periods.
 
 Parameter Calculation: We calculated important performance stats such as Runs per innings, Strike Rate, Centuries, Half-Centuries, Team contribution for Sachin, Virat, and their peers.
 
