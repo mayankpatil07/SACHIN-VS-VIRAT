@@ -29,7 +29,7 @@ Python: Primary programming language for data analysis.
 
 Pandas: For data manipulation and analysis.
 
-Matplotlib & Seaborn: For data visualization.
+Matplotlib: For data visualization.
 
 Jupyter Notebook: For creating and sharing the notebook.
 
