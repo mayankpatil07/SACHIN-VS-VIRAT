@@ -15,15 +15,22 @@ Team Contribution: Contribution of the player's runs to the team's total score c
 
 # Methodology
 Data Collection: We gathered historical cricket data for Sachin Tendulkar, Virat Kohli, and other top players from their time periods.
+
 Parameter Calculation: We calculated important performance stats such as Runs per innings, Strike Rate, Centuries, Half-Centuries, Team contribution for Sachin, Virat, and their peers.
+
 Relative Performance: We compared Sachin's and Virat's stats to the average stats of other players from their eras.
+
 Comparison: We analyzed these comparisons to draw insights about their performances.
 
 # Tech Stack
 The project utilizes the following technologies:
+
 Python: Primary programming language for data analysis.
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib & Seaborn: For data visualization.
+
 Jupyter Notebook: For creating and sharing the notebook.
 
 # Conclusion
